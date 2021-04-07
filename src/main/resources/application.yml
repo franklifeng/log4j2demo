@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: test
+
+logging:
+  config: classpath:log4j2.yml
