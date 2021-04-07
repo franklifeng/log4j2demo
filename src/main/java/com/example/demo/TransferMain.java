@@ -60,6 +60,7 @@ public class TransferMain {
         File file = new File(path);
         logger.error("删除下载到本地的图片和语音完成");
 
+
         logger.error("开始时间：{}，结束时间：{}，迁移数据量为：{},未查询到迁移数据",startDate, endDate, 0);
     }
 
